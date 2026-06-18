@@ -24,7 +24,7 @@
 
 - ☕ Java
 - 🐍 Python
-- 🌐 HTML5, CSS3, JavaScript
+- 🌐 HTML, CSS, JavaScript
 - ⚛️ React.js
 - 🔹 C Programming
 - ☁️ AWS
